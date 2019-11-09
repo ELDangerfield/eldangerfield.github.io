@@ -1,3 +1,4 @@
 name: E L Dangerfield
 markdown: kramdown
+theme: cayman
 permalink: /blog/:year/:month/:day/:title
